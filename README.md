@@ -38,17 +38,14 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p float="left" align="middle">
-<br>Application main page</br>
+<p>Application main page</p>
 <img height="350" src="./README/home.png"/>
-<br>Adding users by clicking on the icon to the invitation list </br>
+<p>Adding users by clicking on the icon to the invitation list </p>
 <img height="350" src="./README/invite.png"/>
-<br>User search by name and email </br>
+<p>User search by name and email </p>
 <img height="350" src="./README/search.png"/>
-<br>Send message screen with user invitation, was sent </br>
+<p>Send message screen with user invitation, was sent </p>
 <img height="350" src="./README/done.png"/>
-</p>
-
 
 
 
