@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container +.container {
+  margin-top: 16px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+
+.wrapperInfo {
+  text-align: start;
+  margin-left: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.email {
+  font-size: 14px;
+  color: rgba(128, 128, 128, 0.7);
+}
+
+.icon {
+  cursor: pointer;
+}
