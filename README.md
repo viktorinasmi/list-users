@@ -39,13 +39,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left" align="middle">
-<p>Application main page</p>
+<br>Application main page</br>
 <img height="350" src="./README/home.png"/>
-<p>Adding users by clicking on the icon to the invitation list </p>
+<br>Adding users by clicking on the icon to the invitation list </br>
 <img height="350" src="./README/invite.png"/>
-<p>User search by name and email </p>
+<br>User search by name and email </br>
 <img height="350" src="./README/search.png"/>
-<p>Send message screen with user invitation, was sent </p>
+<br>Send message screen with user invitation, was sent </br>
 <img height="350" src="./README/done.png"/>
 </p>
 
