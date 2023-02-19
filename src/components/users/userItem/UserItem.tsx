@@ -8,6 +8,8 @@ export const UserItem = ({
   first_name,
   last_name,
   avatar,
+  onClickInvite,
+  isInvited,
 }: IUserItemData) => {
   return (
     <div className={styles.container}>
@@ -20,7 +22,12 @@ export const UserItem = ({
           <div className={styles.email}>{email}</div>
         </div>
       </div>
-      <img src="icons/path.png" alt="add" className={styles.icon} />
+      <img
+        src={`icons/${isInvited ? "minus" : "plus"}.svg`}
+        alt="add"
+        className={styles.icon}
+        onClick={() => (onClickInvite ? onClickInvite(id) : undefined)}
+      />
     </div>
   );
 };
