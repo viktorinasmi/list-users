@@ -40,13 +40,13 @@
 ## About The Project
 <p float="left" align="middle">
 <p>Application main page</p>
-<img height="350" src="./README/Home.png"/>
+<img height="400" src="./README/Home.png"/>
 <p>Adding users by clicking on the icon to the invitation list </p>
-<img height="350" src="./README/add-user-list-invite.png"/>
+<img height="400" src="./README/add-user-list-invite.png"/>
 <p>User search by name and email </p>
-<img height="350" src="./README/search-user.png"/>
+<img height="400" src="./README/search-user.png"/>
 <p>Send message screen with user invitation, was sent </p>
-<img height="350" src="./README/done-invite.png"/>
+<img height="400" src="./README/done-invite.png"/>
 </p>
 
 
